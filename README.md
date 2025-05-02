@@ -10,7 +10,7 @@ This is a solution to the [Intro Component with Sign-Up Form challenge on Fronte
 [Screenshot of the active state](screenshots/active-states.png)
 
 ### 🔗 Live Site
-[Live URL - Coming Soon](#)
+[Live URL](https://chinenyenwa-p.github.io/intro-component-with-signup-form/)
 
 
 ## ⚙️ Built With
